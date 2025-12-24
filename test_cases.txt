@@ -1,0 +1,8 @@
+Marks	Expected Grade
+95	A
+85	B
+75	C
+65	D
+40	F
+110	Invalid Input
+-5	Invalid Input
